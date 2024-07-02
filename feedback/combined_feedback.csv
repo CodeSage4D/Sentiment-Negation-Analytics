@@ -1,0 +1,8 @@
+text,positive,negative,neutral,compound,sentiment
+happy,1.0,0.0,0.0,0.79,Positive
+nothappy,0.0,0.0,1.0,0.5,Neutral
+disappoint,0.0,1.0,0.0,0.3,Negative
+You good,0.744,0.0,0.256,0.72,Positive
+not so happy,0.0,0.616,0.384,0.25,Negative
+not so happy,0.0,0.616,0.384,0.25,Negative
+you are not so much preety,0.0,0.0,1.0,0.5,Neutral
